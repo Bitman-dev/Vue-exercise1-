@@ -9,7 +9,7 @@
     <hr />
     <app-footer></app-footer>
   </div>
-</template>sdfsd
+</template>
 
 <script>
 import AppServers from "./Servers.vue";
