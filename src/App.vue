@@ -12,10 +12,10 @@
 </template>
 
 <script>
-import AppServers from "./Servers.vue";
-import AppServerStatus from "./ServerStatus.vue";
-import AppInfo from "./Info.vue";
-import AppFooter from "./Foot.vue";
+import AppServers from "./servers/Servers.vue";
+import AppServerStatus from "./servers/ServerStatus.vue";
+import AppInfo from "./servers/Info.vue";
+import AppFooter from "./servers/Foot.vue";
 
 export default {
   components: {
